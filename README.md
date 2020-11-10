@@ -45,4 +45,11 @@ Ok, if you could got here, every is going well.
 <img src="https://github.com/presleyreverdito/tutorial-images/blob/main/Screenshot%20from%202020-11-09%2017-24-32.png"
      alt="Rviz opened with robot"
      style="float: left; margin-right: 10px;" />
+     
+  In "workspace_visualization" you select "ReachabilityMap" and then "OK".
+  
+<img src="https://github.com/presleyreverdito/tutorial-images/blob/main/Screenshot%20from%202020-11-09%2017-24-32.png"
+     alt="Rviz opened with robot"
+     style="float: left; margin-right: 10px;" />
+  
 	
