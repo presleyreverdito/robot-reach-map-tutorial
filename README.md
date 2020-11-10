@@ -26,7 +26,7 @@ We use test_kr6r700sixx.launch file, but there are others launch file that you c
 Afte you ran that command above, your computer should open rviz.
 
 <img src="https://github.com/presleyreverdito/tutorial-images/blob/main/Screenshot%20from%202020-11-09%2017-21-34.png"
-     alt="Markdown Monster icon"
+     alt="Rviz opened with robot"
      style="float: left; margin-right: 10px;" />
 	
 
@@ -40,5 +40,9 @@ Afte you ran that command above, your computer should open rviz.
 	
 Ok, if you could got here, every is going well.
 
-6- Lets configure the rviz now
+6- Lets configure the rviz now. On left menu, in bottom, you can find the "add" buttom, click on it.
 
+<img src="https://github.com/presleyreverdito/tutorial-images/blob/main/Screenshot%20from%202020-11-09%2017-24-32.png"
+     alt="Rviz opened with robot"
+     style="float: left; margin-right: 10px;" />
+	
