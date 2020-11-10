@@ -73,3 +73,6 @@ Is the robot in wrong pose? Calm down, Do you remeber that window that open in t
 alt="Rviz opened with robot"
 style="float: left; margin-right: 10px;" />
  	
+Have fun! Feel free to change the positions!
+
+Thank you for read this tutorial, if you have any advise or tips, feel free to contact me! :)
