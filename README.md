@@ -62,6 +62,11 @@ style="float: left; margin-right: 10px;" />
 In topic, choose "/reachbility_map". Now you already have the reachability with robot, but it isn't photogenic. Let's do it more photogenic!
 In the left menu yet, choose "1st_Half" in disect and in Shape Property, choose size equal 0,02.
 
+
+<img src="https://github.com/presleyreverdito/tutorial-images/blob/main/Screenshot%20from%202020-11-10%2008-55-38.png"
+alt="Rviz opened with robot"
+style="float: left; margin-right: 10px;" />
+
 The robot are in wrong pose? Calm down, Do you remeber that window that open in the same time as rviz? There you can change the pose of robot.
 
 <img src="https://github.com/presleyreverdito/tutorial-images/blob/main/Screenshot%20from%202020-11-10%2008-52-34.png"
