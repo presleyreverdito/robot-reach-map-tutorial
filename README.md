@@ -67,7 +67,7 @@ In the left menu yet, choose "1st_Half" in disect and in Shape Property, choose 
 alt="Rviz opened with robot"
 style="float: left; margin-right: 10px;" />
 
-The robot are in wrong pose? Calm down, Do you remeber that window that open in the same time as rviz? There you can change the pose of robot.
+Is the robot in wrong pose? Calm down, Do you remeber that window that open in the same time as rviz? There you can change the pose of robot.
 
 <img src="https://github.com/presleyreverdito/tutorial-images/blob/main/Screenshot%20from%202020-11-10%2008-52-34.png"
 alt="Rviz opened with robot"
